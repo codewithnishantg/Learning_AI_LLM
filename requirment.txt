@@ -27,3 +27,5 @@ scikit-learn
 
 langchain-huggingface 
 huggingface_hub
+langchain-ollama
+streamlit

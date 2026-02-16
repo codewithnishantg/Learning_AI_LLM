@@ -11,3 +11,5 @@
 # uvicorn app.application:app --host 0.0.0.0 --port 8080
 
 M-JGC9649C46:CodeWithNishant nishantgoyal$ /opt/homebrew/bin/python3.11 Langchain/Embedding_model_hf.py 
+
+git remote set-url origin https://CodeWithNishant@github.com/REPO_OWNER/REPO_NAME.git
